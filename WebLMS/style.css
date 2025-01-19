@@ -1,0 +1,407 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Header style */
+header {
+    background-color: #220A8B;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+   
+}
+
+/* Logo */
+.logo h1 {
+    font-size: 2rem;
+    text-align: start;
+}
+
+/* Navbar style */
+nav {
+    padding: 10px;
+    margin-top: -45px;
+}
+
+nav ul {
+    list-style-type: none;
+    text-align: end;
+    margin-top: -4px;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+    font-size: 1.1rem;
+    transition: color 0.3s;
+    
+}
+
+nav ul li a:hover {
+    color:blueviolet;
+}
+.img0{
+   width: 40px; 
+   height: 30px;
+   margin-top: 15px;
+   margin-left: 50px;
+}
+.im1{
+    width: 40px; 
+    height: 30px;  
+    margin-top: 15px;
+    margin-left: 50px;
+}
+.im2{
+width:40px ;
+height:40px ;
+margin-top: 10px;
+margin-left: 50px;
+}
+.im3{
+    width:40px ;
+    height:40px ;
+    margin-top: 10px;
+    margin-left: 50px;
+    }
+.im4{
+        width:40px ;
+        height:40px ;
+        margin-top: 10px;
+        margin-left: 50px;
+}
+.im5{
+    width:40px ;
+    height:40px ;
+    margin-top: 10px;
+    margin-left: 50px;
+}
+.im6{
+    width:30px ;
+    height:30px ;
+    margin-top: -20px;
+    margin-left: -80vh;
+}
+.im7{
+    width:30px ;
+    height:30px ;
+    margin-top: -20px;
+    margin-left: 6vh;
+
+}
+.im8{
+    width:30px ;
+    height:30px ;
+    margin-top: -10px;
+    margin-left: -10vh;
+}
+.im9{
+    width:30px ;
+    height:30px ;
+    margin-top: -10px;
+    margin-left: 5vh;
+}
+.im10{
+    width:45px ;
+    height:45px ;
+    margin-top: -10vh;
+    margin-left: 7vh;
+}
+.h3i{
+    justify-content: end;
+    text-align:end;
+    
+}
+.imp{
+    justify-content: end;
+    text-align: end;
+    display: flex
+}
+.h11{
+  color: #220A8B; 
+  font-size: 45px;
+text-align: center;
+}
+.h33{
+color: white;
+margin-top: 300px;
+font-size: 25px;
+}
+
+.U{
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+        
+}
+
+
+img{
+    width: 100%;
+    height:90vh ;
+    margin-top: -46px;
+    transition: transfrom 0.3s ease;
+    margin-bottom: 20px;
+    
+}
+img:hover{
+    transform: scale(1.1);
+}
+.main{
+    width: 100%;
+    height: 600px;
+    margin-top: 4px;
+    background-image: url('Sustainable Materials for Hospitality Interiors.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;  
+}
+.cont{
+    width: 100%;
+    height:390vh;
+    background: #220A8B;
+   
+}
+.img1{
+    width: 200px;
+    height: 200px;
+    border-radius: 8px;
+}
+
+.div1{
+    width: 200px;
+    height: 280px;
+    background: white;
+    margin-left: 30px;
+    border-radius: 8px;
+    margin-left: -0px;
+    
+    
+}
+
+.img2{
+    width: 200px;
+    height: 200px;
+    border-radius: 8px;
+}
+.div2{
+    width: 200px;
+    height: 280px;
+    background: white;
+    margin-left: 30px;
+    border-radius: 8px;
+    
+    
+}
+
+.img3{
+    width: 200px;
+    height: 200px;
+    border-radius: 8px;
+}
+.div3{
+    width: 200px;
+    height: 280px;
+    background: white;
+    margin-left: 30px;
+    border-radius: 8px;
+    
+    
+}
+.div4{
+    display: flex;
+    justify-content: center;
+    margin-top: 130px;
+    color: white;
+    font-size: 25px;
+margin-left: 50px;
+}
+.img4{
+    width: 350px;
+    height: 350px;
+    margin-left: -29px;
+    border-radius: 8px;
+    margin-top: -8px;
+    
+}
+.class3{
+    margin-top: 25px;
+    text-align: center;
+    font-size: 20px;
+}
+.div5{
+    margin-top: 50px;
+     margin-left: 35px;
+}
+.img5{
+    width: 200px;
+    height: 200px;
+    margin-left: -15px;
+    border-radius: 8px;
+    
+    
+}
+.div6{
+    display: flex;
+    justify-content: center;
+    margin-top: -28vh;
+     margin-left: -25rem;
+}
+.img6{
+    width: 200px;
+    height: 200px;
+    margin-left: -29px;
+    border-radius: 8px;
+    margin-top: -7px;
+    
+}
+.div7{
+    display: flex;
+    justify-content: center;
+    margin-top:-27vh ;
+     margin-left: 70vh;
+}
+.img7{
+    width: 200px;
+    height: 200px;
+    margin-left: -29px;
+    border-radius: 8px;
+    margin-top: -8px;
+    
+}
+.taxt{
+    margin-top: 25px;
+    text-align: center;
+    font-size: 20px;
+}
+.uuu{
+    margin-top: 15px;
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+}
+.aaa{
+    margin-top: 15px;
+    display: flex;
+    justify-content: center;
+    gap: 30px;  
+}
+.taxi{
+    background: white;
+    width: 150px;
+    height: 150px;
+    border: 1px solid black;
+}
+.tel{
+    background: white;
+    width: 150px;
+    height: 150px;
+    border: 1px solid black;
+} 
+.text{
+    background: white;
+    width: 150px;
+    height: 150px;
+    border: 1 px solid black;
+}
+.book{
+    background: white;
+    width: 150px;
+    height: 150px;
+    border: 1 px solid black;
+}
+.glob{
+    background: white;
+    width: 150px;
+    height: 150px;
+    border: 1 px solid black;
+}
+.map{
+    background: white;
+    width: 150px;
+    height: 150px;
+    border: 1 px solid black;
+}
+.from{
+width: 300px;
+margin-top: 20px;
+}
+form input{
+    width: 300px;
+    padding: 7px;
+    border: none;
+    border: 1px solid #463B77;
+    background: #463B77;
+    
+}
+.inp{
+    width: 40vh;
+    height: 40px;
+    margin-top: 30px;
+    background: #1A50FF;
+    border-radius: 16px;
+    border: #1A50FF;
+    color: white;
+
+}
+form label{
+    display: flex;
+    margin-top: 20px;
+    margin-left: 49px;
+    color: gainsboro;
+    font-size: 18px
+}
+.hi3{
+color: white;
+text-align: center;
+margin-top: 30px;
+}
+.for{
+    margin-top:20px;
+    margin-left: 30%;
+    width: 400px;
+    height:300px ;
+    background-color:#2F2559;
+    border-radius: 8px;
+text-align: center;
+}
+
+.h5{
+    margin-top: -30vh;
+    margin-left: 20px;
+    color: gainsboro;
+}
+.h4{
+    margin-left: 20px;
+    display: flex;
+margin-top: 40px;
+justify-content: center;
+color: white;
+}
+footer {
+    background-color: #2F2559;;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    margin-top: -200px;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+    height: 200px;
+}
+.ikonka {
+    margin: 10px;
+    cursor: pointer;
+}
+
+
+
+
+
